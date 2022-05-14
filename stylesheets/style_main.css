@@ -15,18 +15,18 @@ main .container {
     width: 100px;
     margin-right: 10px;
     text-align: center;
-    background-color: #ddd;
+    background-color: #D2B48C;
     padding: 5px;
 }
 
 .tabs a span.active {
-    background-color: #eee;
+    background-color: #F4A460;
 }
 
 .content {
     padding: 14px;
 
-    background-color: #eee;
+    background-color: #F4A460;
 }
 
 .content li {
