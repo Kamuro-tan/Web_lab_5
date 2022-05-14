@@ -1,0 +1,38 @@
+
+main {
+    background: white;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+main .container {
+    padding: 14px;
+}
+
+.tabs a span {
+    display: inline-block;
+    border-radius: 5px 5px 0 0;
+    width: 100px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #ddd;
+    padding: 5px;
+}
+
+.tabs a span.active {
+    background-color: #eee;
+}
+
+.content {
+    padding: 14px;
+
+    background-color: #eee;
+}
+
+.content li {
+    padding: 4px;
+    margin-top: 6px;
+
+    border-radius: 4px;
+    background-color: #fff;
+}
